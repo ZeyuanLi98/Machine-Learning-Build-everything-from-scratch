@@ -1,2 +1,2 @@
-# Machine-Learning-Build-everything-from-scratch
+# Machine-Learning: Build-everything-from-scratch
 EECS 545
